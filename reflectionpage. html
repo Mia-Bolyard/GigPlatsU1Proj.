@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html>
 <title>Reflection on Project</title>
-<h1>This was rough.</h1>
+<head>
+<style>
+        h1{color: blue;}
+</style>
+</head>
+<h1>This Was Rough</h1>
+
 <p>See I wasn't expecting for this project utilizing Git Hub to be as difficult as it was. Prior to this project everything had been pretty smooth sailing. I understood Markdown pretty well. HTML took a little longer, but still not somthing I was worried about. 
 So Mia of the past thought, "You know what future Mia, I think you'll be just fine." Past Mia was <b>very very</b> wrong. 
 
@@ -14,9 +20,8 @@ I don't understand what I am doing with images that they don't want to appear ni
 
 I've never wanted to throw my computer across the room more. But fortunatley, I didn't do that. 
 
-All in all, I was able to figure it all out and have made the site you see before you! Hoped you enjoyed it. 
+All in all, I was able to figure it all out and have made the site you see before you! Hoped you enjoyed it.</p>
 
 <a href="index.htm">Return Home</a>
 
-- <i>Mia Bolyard</i></p>
 </html>
